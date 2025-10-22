@@ -1,2 +1,2 @@
-# Signal Mapper - Android App
+# MeshCore Signal Mapper - Android App
 
